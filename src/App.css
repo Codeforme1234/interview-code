@@ -1,0 +1,5 @@
+.navbar{
+  width:full;
+  display: flex;
+  flex-direction: column;
+}
